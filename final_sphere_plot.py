@@ -91,7 +91,8 @@ ax.text2D(
 ax.set_xlabel("X")
 ax.set_ylabel("Y")
 ax.set_zlabel("Z")
-ax.set_title("3D Scatter Plot with Goon Sphere")
+# ax.set_title("3D Scatter Plot with Goon Sphere")
+ax.set_title("3D Scatter Plot with Blue Sphere")
 
 ax.legend()
 
